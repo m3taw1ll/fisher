@@ -1,4 +1,5 @@
 /* Custom Device Driver */
+/* Errors left purposely to track mistakes */
 
 #include <linux/kernel.h>
 #include <linux/module.h>
